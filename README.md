@@ -70,3 +70,9 @@ Developed a Python-based log analysis tool to identify failed authentication att
 - Log Analysis
 - Cybersecurity
 - Security Monitoring
+
+## Project Output
+
+Example of the script detecting suspicious authentication activity and generating an automated security report.
+
+![Security Log Output](image.png)
